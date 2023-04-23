@@ -1,0 +1,7 @@
+username = 'dai_li'
+#password = 'ATBBnUpcWvCNpVMRGxuw8FSPFh9Y8F1060E3'
+
+#full admin for cc
+password='TBBUAzkBcz7vaRCCz7b4jWq7SG7FD6A7BA7'
+password='ATBBpykbzEgQbJmPFYaDTJ66pU3S5E5DB79B'
+#ATATT3xFfGF0oBcs83Z9Q5rv_bDY8AU7TgVV0Y0PoyCufh0Hg4Fx42XoClnKWb5U1u_dLhBEI8hUv8y7ga-w7kDozjknk9G8xYuiDQWOV2AHr_lL0N49pQVihzZwAVIk2mqG45LNIwk01vlLX21FpLqr3Lte48EZo19cWg_i_gEXu259gcTL3iY=D5F0BBF3

@@ -2,7 +2,7 @@
 
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
-    URL git@bitbucket.org:id4tv/videoframe.git
+    URL CURRENT_BITBUCKET_REPO_GIT_URL
     REF eeefe7bd5c987bd34b7aeb6670b2d656471ed732
     HEAD_REF master    
 )
